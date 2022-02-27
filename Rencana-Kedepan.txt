@@ -2,6 +2,9 @@ Rencana Kedepan :
 - Membuat nasi goreng
   * Nasi Goreng Ruwet
   * Nasi Goreng Setan
+  * Nasi Goreng Udang
+  * Nasi Goreng Mawut
 - Membuat mie goreng
 - Membuat bakso 
 - Membuat jus mangga
+- Membuat pentol
